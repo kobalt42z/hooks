@@ -1,0 +1,23 @@
+{
+  "name": "use-toggle",
+  "version": "1.0.0",
+  "description": "simple toggle hook",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelGabay/mg-js.git"
+  },
+  "homepage": "  https://github.com/MichaelGabay/mg-js.git#readme",
+  "author": "kobalt42z",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.0.32",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^5.0.3"
+  }
+}
