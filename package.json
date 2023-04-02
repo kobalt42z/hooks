@@ -1,12 +1,12 @@
 {
-  "name": "use-toggle",
+  "name": "sk-use-toggle",
   "version": "1.0.0",
   "description": "simple toggle hook",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MichaelGabay/mg-js.git"
+    "url": "git+https://github.com/kobalt42z/useToggle.git"
   },
-  "homepage": "  https://github.com/MichaelGabay/mg-js.git#readme",
+  "homepage": "  https://github.com/kobalt42z/useToggle.git#readme",
   "author": "kobalt42z",
   "main": "index.js",
   "scripts": {
