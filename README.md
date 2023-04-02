@@ -1,6 +1,6 @@
 <div align="center">
   <h1>sk-use-toggle</h1>
-  <a href="https://www.npmjs.com/package/mg-js">
+  <a href="https://www.npmjs.com/package/sk-use-toggle">
      <img src="https://img.shields.io/npm/v/sk-use-toggle?color=%2327f2ca" alt="npm package" />
   </a>
 </div>
