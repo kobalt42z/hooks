@@ -21,7 +21,7 @@ const [show,toggle] = UseToggle()
 
 
 ## import 
-Time ago function
+
 
 ```js
 
